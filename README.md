@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @banban-22
-- 👀 I’m interested in Frontend Developer AND Software Engineer
+- 👋 Hi, I’m Ayaka Bando
+- 👀 I’m interested in Frontend Developer with using up-to-date skills
 - 🌱 I’m currently learning HTML, CSS, JS, Java
 - 📫 How to reach me ... Please kindly give me some advices to improve my site!
 
