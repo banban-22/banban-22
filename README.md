@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ayaka Bando
-- 👀 I’m a Japanese Frontend Developer with using up-to-date skills. I love learning a new skills and I enjoy it every single day!
-- 🌱 I’m currently learning HTML, CSS, JS, Java, React JS.
+- 👋 Hi, I’m Ayaka, Japanese Frontend Developer.
+- 👀 I’m using up-to-date skills. I love learning new skills and enjoy it every single day!
+- 🌱 I’m currently learning HTML, CSS, JS, React JS, Tailwindcss, Sass.
 
 
 <!---
