@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayaka, Japanese Frontend Developer based in Vancouver.
+- 👋 Hi, I’m Ayaka, Frontend Developer based in Vancouver.
 - 👀 I’m using up-to-date skills. I love learning new skills and enjoy it every single day!
 - 🌱 I’m currently creating apps with HTML, CSS, JS, React JS, Tailwindcss, Sass, Typescript.
 
