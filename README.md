@@ -1,6 +1,33 @@
-- 👋 Hi, I’m Ayaka, Fullstack Web Developer based in Vancouver.
-- 👀 I’m using up-to-date skills. I love learning new skills and enjoy it every single day!
-- 🌱 I’m develoing apps with HTML, CSS, JS, React JS, Tailwindcss, Sass, Typescript, Ruby on rails, Express JS, and so on.
+AYAKA BANDO - Web Developer Extraordinaire
+
+🌐 Portfolio: ayakabando.netlify.app
+📧 Email: ayaka.bando22@gmail.com
+📞 Phone: 236-863-6046
+🔗 LinkedIn: www.linkedin.com/in/ayaka-bando
+🖥️ GitHub: https://github.com/banban-22
+
+💡 Skills:
+- Expertise in HTML, CSS, JavaScript, Ruby, PHP
+- Proficient in React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Typescript
+- Database management with PostgreSQL, MongoDB, Knex
+- Version control maestro using Git
+- Design prowess with Photoshop, Illustrator, Figma
+
+🚀 Professional Experience:
+- Cybar: Crafting tailored websites, troubleshooting WordPress intricacies
+- Namaiki: E-commerce wizardry from scratch, UI/UX design insights
+
+🎓 Education:
+- Bachelor of Arts and Social Science from Simon Fraser University
+- Advanced Web Application coursework at CodeCore College
+
+🌟 Achievements:
+- Orchestrated a 126% sales boost at Webstaff Co., Ltd.
+- Exceeded sales targets by 130% post-transition to Sales
+
+🌱 Ever-evolving:
+- Always learning, growing, and embracing the latest in web development trends and technologies.
+
 
 
 <!---
