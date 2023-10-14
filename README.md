@@ -16,6 +16,7 @@ AYAKA BANDO - Web Developer Extraordinaire
 🚀 Professional Experience:
 - Cybar: Crafting tailored websites, troubleshooting WordPress intricacies
 - Namaiki: E-commerce wizardry from scratch, UI/UX design insights
+- Webstaff: Web-director at Yahoo, Sales, Web developement instructor
 
 🎓 Education:
 - Bachelor of Arts and Social Science from Simon Fraser University
