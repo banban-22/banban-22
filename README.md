@@ -1,10 +1,10 @@
 AYAKA BANDO - Web Developer Extraordinaire
 
-🌐 Portfolio: ayakabando.netlify.app
-📧 Email: ayaka.bando22@gmail.com
-📞 Phone: 236-863-6046
-🔗 LinkedIn: www.linkedin.com/in/ayaka-bando
-🖥️ GitHub: https://github.com/banban-22
+🌐 Portfolio: https://ayakabando.netlify.app<br/>
+📧 Email: ayaka.bando22@gmail.com<br/>
+📞 Phone: 236-863-6046<br/>
+🔗 LinkedIn: www.linkedin.com/in/ayaka-bando<br/>
+🖥️ GitHub: https://github.com/banban-22<br/>
 
 💡 Skills:
 - Expertise in HTML, CSS, JavaScript, Ruby, PHP
