@@ -7,20 +7,20 @@ AYAKA BANDO - Web Developer Extraordinaire
 🖥️ GitHub: https://github.com/banban-22<br/>
 
 💡 Skills:
-- Expertise in HTML, CSS, JavaScript, Ruby, PHP
-- Framework: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-- Database management with PostgreSQL, MongoDB, Knex
+- Languages: HTML, CSS, JavaScript, Ruby, PHP
+- Framework: ReactJS, NodeJS, ExpressJS, Bootstrap, Tailwind, Typescript, GraphQL
+- Database: PostgreSQL, MongoDB, Knex
 - Version control: Git
-- Design prowess with Photoshop, Illustrator, Figma
+- Design: Photoshop, Illustrator, Figma
 
 🚀 Professional Experience:
-- Cybar: Crafting tailored websites, troubleshooting WordPress intricacies
+- Cybar: Crafting tailored websites, troubleshooting WordPress intricacies, creating WordPress Theme
 - Namaiki: E-commerce wizardry from scratch, UI/UX design insights
 - Webstaff: Web-director at Yahoo, Sales, Web developement instructor
 
 🎓 Education:
 - Bachelor of Arts and Social Science from Simon Fraser University
-- Advanced Web Application coursework at CodeCore College
+- Advanced Web Application coursework at CodeCore College (Scholarship)
 
 🌟 Achievements:
 - Orchestrated a 126% sales boost at Webstaff Co., Ltd.
