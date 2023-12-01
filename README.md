@@ -8,7 +8,7 @@ AYAKA BANDO - Web Developer Extraordinaire
 
 💡 Skills:
 - Expertise in HTML, CSS, JavaScript, Ruby, PHP
-- Framework: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; Node.js, Express.js, Bootstrap, Tailwind CSS, Typescript
+- Framework: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;, <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 - Database management with PostgreSQL, MongoDB, Knex
 - Version control: Git
 - Design prowess with Photoshop, Illustrator, Figma
