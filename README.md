@@ -1,4 +1,4 @@
-AYAKA BANDO - Web Developer Extraordinaire
+AYAKA BANDO - Fullstack Web Developer
 
 🌐 Portfolio: https://ayakabando.netlify.app<br/>
 📧 Email: ayaka.bando22@gmail.com<br/>
