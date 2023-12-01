@@ -8,9 +8,9 @@ AYAKA BANDO - Web Developer Extraordinaire
 
 💡 Skills:
 - Expertise in HTML, CSS, JavaScript, Ruby, PHP
-- Proficient in React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, Typescript
+- Framework: <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; Node.js, Express.js, Bootstrap, Tailwind CSS, Typescript
 - Database management with PostgreSQL, MongoDB, Knex
-- Version control maestro using Git
+- Version control: Git
 - Design prowess with Photoshop, Illustrator, Figma
 
 🚀 Professional Experience:
